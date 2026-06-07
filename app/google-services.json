@@ -1,0 +1,40 @@
+  {
+  "project_info": {
+    "project_number": "626402684649",
+    "firebase_url": "https://e-shop-a4fbd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-shop-a4fbd",
+    "storage_bucket": "e-shop-a4fbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626402684649:android:2f011af024410b69fb0a78",
+        "android_client_info": {
+          "package_name": "com.shopeasy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626402684649-ijobviacq3iilli7cr5i6cm62bhhrrka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWOXF6h_x8FZPBUYZkh0RONqKuR-4pxIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626402684649-ijobviacq3iilli7cr5i6cm62bhhrrka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
